@@ -2,4 +2,5 @@
 You can get simple idea about Java programming and also Basic projects in here 
 
 #01 Hello World Program 
-#05 GUI calculator
+#02 Datatypes of java
+#05 CLI calculator
