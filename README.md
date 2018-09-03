@@ -6,4 +6,5 @@ You can get simple idea about Java programming and also Basic projects in here
 #03 Scanning class
 #04 Java_class
 #05 java loop
-#06 GUI calculator
+#06 Operators
+#07 GUI calculator
