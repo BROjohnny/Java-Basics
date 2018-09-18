@@ -7,6 +7,8 @@ You can get simple idea about Java programming and also Basic projects in here
 04 Java_class<br>
 05 java loop<br>
 06 Operators<br>
-07 GUI calculator<br>
+07 Conditions<br>
 08 Break & continue<br>
 09 Encapsulation<br>
+10  <br>
+11 GUI calculator<br>
